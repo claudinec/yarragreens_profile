@@ -31,11 +31,23 @@ projects[diff][version] = 2.0
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.5
 
+projects[entity][subdir] = contrib
+projects[entity][version] = 1.0-rc3
+
 projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
 
+projects[panels][subdir] = contrib
+projects[panels][version] = 3.3
+
+projects[pathauto][subdir] = contrib
+projects[pathauto][version] = 1.2
+
 projects[switchtheme][subdir] = contrib
 projects[switchtheme][version] = 1.0
+
+projects[taxonomy_display][subdir] = contrib
+projects[taxonomy_display][version] = 1.0
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.3
