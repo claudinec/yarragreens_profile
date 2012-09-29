@@ -34,6 +34,12 @@ projects[devel][version] = 1.5
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
 
+projects[filefield_paths][subdir] = contrib
+projects[filefield_paths][version] = 1.0-beta3
+
+projects[google_analytics][subdir] = contrib
+projects[google_analytics][version] = 1.2
+
 projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
 
