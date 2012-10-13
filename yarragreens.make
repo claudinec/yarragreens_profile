@@ -37,8 +37,14 @@ projects[entity][version] = 1.0-rc3
 projects[filefield_paths][subdir] = contrib
 projects[filefield_paths][version] = 1.0-beta3
 
+projects[filefield_sources][subdir] = contrib
+projects[filefield_sources][version] = 1.6
+
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.2
+
+projects[libraries][subdir] = contrib
+projects[libraries][version] = 1.0
 
 projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
@@ -48,6 +54,9 @@ projects[panels][version] = 3.3
 
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.2
+
+projects[quicktabs][subdir] = contrib
+projects[quicktabs][version] = 3.4
 
 projects[switchtheme][subdir] = contrib
 projects[switchtheme][version] = 1.0
@@ -61,8 +70,16 @@ projects[token][version] = 1.3
 projects[views][subdir] = contrib
 projects[views][version] = 3.5
 
+projects[wysiwyg][subdir] = contrib
+projects[wysiwyg][version] = 2.2
+
 ; Base theme
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
 
+; Libraries
+
+libraries[ckeditor][type] = libraries
+libraries[ckeditor][download][type] = file
+libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.4/ckeditor_3.6.4.tar.gz
