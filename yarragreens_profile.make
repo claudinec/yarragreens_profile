@@ -32,6 +32,9 @@ projects[diff][version] = 2.0
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
 
+projects[features][subdir] = contrib
+projects[features][version] = 1.0
+
 projects[filefield_paths][subdir] = contrib
 projects[filefield_paths][version] = 1.0-beta3
 
