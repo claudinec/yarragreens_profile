@@ -349,3 +349,10 @@ settings[alpha_region_footer_second_suffix] = ''
 settings[alpha_region_footer_second_weight] = '2'
 settings[alpha_region_footer_second_css] = ''
 version = '1.x'
+
+
+; Information added by drush on 2012-10-31
+version = "unknown"
+project = "yarragreens_profile"
+datestamp = "1351649410"
+

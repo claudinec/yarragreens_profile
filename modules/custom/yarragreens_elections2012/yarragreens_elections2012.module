@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the yarragreens_elections2012 feature.
+ */
+
+include_once 'yarragreens_elections2012.features.inc';
