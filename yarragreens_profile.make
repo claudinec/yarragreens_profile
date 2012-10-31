@@ -32,6 +32,9 @@ projects[diff][version] = 2.0
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
 
+projects[features][subdir] = contrib
+projects[features][version] = 1.0
+
 projects[filefield_paths][subdir] = contrib
 projects[filefield_paths][version] = 1.0-beta3
 
@@ -78,10 +81,9 @@ projects[omega][version] = 3.1
 
 ; Libraries
 
-projects[profiler][subdir] = contrib
 projects[profiler][type] = libraries
 projects[profiler][version] = 2.0-beta1
 
 libraries[ckeditor][type] = libraries
 libraries[ckeditor][download][type] = file
-libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.4/ckeditor_3.6.4.tar.gz
+libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.5/ckeditor_3.6.5.tar.gz
