@@ -34,6 +34,9 @@ projects[devel][version] = 1.5
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
 
+projects[link][subdir] = contrib
+projects[link][version] = 1.0
+
 projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
 
