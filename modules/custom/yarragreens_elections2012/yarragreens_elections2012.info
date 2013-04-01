@@ -61,3 +61,4 @@ features[quicktabs][] = council_elections_2012
 features[taxonomy][] = ward
 features[views_view][] = candidates_2012
 features[views_view][] = wards_and_candidates_2012
+

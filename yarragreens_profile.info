@@ -1,11 +1,5 @@
 name = Yarra Greens
 description = yarragreens.org installation profile.
 version = 0.1
-core = 7.x
-
-
-; Information added by drush on 2012-10-31
-version = "unknown"
 project = "yarragreens_profile"
-datestamp = "1351649410"
-
+core = 7.x
