@@ -62,9 +62,3 @@ features[taxonomy][] = ward
 features[views_view][] = candidates_2012
 features[views_view][] = wards_and_candidates_2012
 
-
-; Information added by drush on 2013-03-31
-version = "unknown"
-project = "yarragreens_profile"
-datestamp = "1364711118"
-
