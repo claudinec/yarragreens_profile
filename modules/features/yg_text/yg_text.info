@@ -11,3 +11,5 @@ dependencies[] = wysiwyg
 features[features_api][] = api:1
 features[filter][] = filtered_html
 features[filter][] = full_html
+features[wysiwyg][] = filtered_html
+features[wysiwyg][] = full_html
