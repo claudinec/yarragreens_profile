@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the YG Pages feature.
- */
-
-include_once 'yg_pages.features.inc';
